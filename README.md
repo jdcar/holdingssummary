@@ -8,10 +8,16 @@ I recommend using the MARCedit Export Tab Delimited tool to create a text file o
 MFHDID, 852 tag, 863 tag.
 
 1393, 23$81$av.$i(year), 40$81.5000$a36$i1983
+
 1881, 23$81$av.$i(yr.), 40$81.5000$a12$i1983
+
 2481, 23$81$av.$i(year), 40$81.5000$a2$i1979
+
 4638, 23$81$ano.$i(year), 40$81.1$a48$i1983
+
 4795, 23$81$av.$i(yr.), 40$81.1$a152-154$i1983
+
 4796, 23$81$av.$i(yr.), 40$81.1$a155-157$i1983
+
 5900, 23$81$a(year), 40$81.5000$a1983
 
